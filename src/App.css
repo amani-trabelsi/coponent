@@ -1,0 +1,20 @@
+.page{
+
+    
+}
+body{
+    background-color: rgb(102, 170, 230);
+    margin: 50px;
+    text-align: center;
+}
+img{
+   margin-left: 120px;
+   
+
+}
+h1{
+  /* font-size: large;*/
+   font-weight: lighter;
+   color: yellow;
+   margin: 30px;
+}
